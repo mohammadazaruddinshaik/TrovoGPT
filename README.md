@@ -74,6 +74,9 @@ Design a web application that takes a **human protein or gene** name as input an
 
 ---
 
+## Backend Live at : https://amino-verse-backend1.vercel.app/
+---
+
 ### Clone the repo
 ```bash
 git clone https://github.com/mohammadazaruddinshaik/TrovoGPT.git
