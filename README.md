@@ -32,9 +32,9 @@ Design a web application that takes a **human protein or gene** name as input an
 
 | Role             | Name            |
 |------------------|------------------|
-| Frontend & UI/UX | [Your Name]      |
-| Backend & API    | [Teammate 1]     |
-| Data Integration | [Teammate 2]     |
+| Frontend & UI/UX | Mohammad Saffwan & Mohammad Azaruddin Shaik |
+| Backend & API    | Kranti Yelaboina & Akshith Narra |
+| Data Integration | Akhilesh Eragolla |
 
 ---
 
