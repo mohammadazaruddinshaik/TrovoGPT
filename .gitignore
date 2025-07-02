@@ -9,4 +9,3 @@ services/__pycache__/
 routes/__pycache__/
 utils/__pycache__/
 *.pyc
-app.py 
